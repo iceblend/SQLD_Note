@@ -2,7 +2,7 @@
 * SQLD를 공부하기 위한 깃허브
 
 ##목차
-###과목 2. SQL 기본 및 활용
+###과목2 SQL 기본 및 활용
 #### 1장 SQL 기본
 1. 관계형 데이터베이스 개요
 2. DLL(Data Definition Language)
